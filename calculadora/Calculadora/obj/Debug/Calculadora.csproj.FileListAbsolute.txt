@@ -1,0 +1,10 @@
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\obj\Debug\Calculadora.fMain.resources
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\juanc\OneDrive\Escritorio\calculadora\Calculadora\obj\Debug\Calculadora.pdb
